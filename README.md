@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvermafz&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvermafz" /> </p>
 
-- 💬 Ask me about **MERN Stack, RUST**
+- 💬 Ask me about **MERN Stack, Ruby**
 
 - 📫 How to reach me **vermadhruv09112002@gmail.com**
 
