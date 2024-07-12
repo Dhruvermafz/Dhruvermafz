@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dhruv Verma</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvermafz&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvermafz" /> </p>
 
 - 💬 Ask me about **MERN Stack, NextJS, C#, Python, Django**
 
 - 📫 How to reach me **vermadhruv09112002@gmail.com**
+  
+- 🤝 I’m looking for help with WEB APPS.
+  
+- 👨‍💻 All of my projects are available at [https://github.com/Dhruvermafz])
+  
+- 💬 Ask me about web development and mobile development. 💜
+  
+- 👐 Currently Learning Django. 💙
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
