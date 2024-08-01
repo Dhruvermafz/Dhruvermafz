@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  💬 Ask me about **MERN Stack, NextJS, C#, Python, Django** <br>
+  💬 Ask me about *MERN Stack, NextJS, C#, Python, Django* <br>
   📫 How to reach me: [vermadhruv09112002@gmail.com](mailto:vermadhruv09112002@gmail.com) <br>
   🤝 I’m looking for help with WEB APPS. <br>
   👨‍💻 All of my projects are available at [GitHub](https://github.com/Dhruvermafz) <br>
-  🧠 Currently learning: **Django and Docker**
+  🧠 Currently learning: *Django and Docker*
 </p>
 
 <h3 align="center">Connect with me:</h3>
