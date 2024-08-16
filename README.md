@@ -171,9 +171,15 @@
   />
 </p>
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Dhruvermafz&show_icons=true&count_private=true"
-  alt="Dhruvermafz"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvermafz"
+  alt="Dhruvermafz's GitHub Streak"
 />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Dhruvermafz&show_icons=true&count_private=true"
+  alt="Dhruvermafz's GitHub Stats"
+/>
+
 <p>
   <a
     href="http://hits.dwyl.com/Dhruvermafz/Dhruvermafz/Dhruvermafz.svg?style=flat-square"
