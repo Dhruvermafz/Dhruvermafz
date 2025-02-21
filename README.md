@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://dhruvermafz.vercel.app/">Dhruv Verma</a></h2>
 <p>
   I'm currently a Full Stack Developer at
-  <strong><a href="https://pickvive.com/">PickVibe LLP</a></strong>
+  <strong><a href="https://rocklime.com/">Rocklime</a></strong>
   based in 🌁 Noida. I am working on some side projects, learning a couple new
   technologies, and trying to explore new adventures in life.
 </p>
