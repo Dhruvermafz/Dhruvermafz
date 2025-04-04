@@ -2,13 +2,13 @@
 <p>
   I'm currently a Full Stack Developer at
   <strong><a href="https://rocklime.com/">Rocklime</a></strong>
-  based in 🌁 Noida. I am working on some side projects, learning a couple new
+  based in 🌁 Delhi. I am working on some side projects, learning a couple new
   technologies, and trying to explore new adventures in life.
 </p>
 <p>
-  <a href="https://dhruvermafz.vercel.app"
+  <a href="https://dhruvermafz.in"
     ><img
-      src="https://img.shields.io/badge/-dhruvermafz-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://dhruvermafz"
+      src="https://img.shields.io/badge/-dhruvermafz-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://dhruvermafz.in"
       alt="Website Badge"
   /></a>
   <a href="https://medium.com/@dhruvermafz"
@@ -50,20 +50,20 @@
   </li>
   <li>
     📝 I <del>regulary</del> write articles on
-    <a href="https://dhruvermafz.vercel.app/blogs">my blog</a>.
+    <a href="https://dhruvermafz.in/blogs">my blog</a>.
   </li>
   <li>
     💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.
   </li>
   <li>
     📙 Check out my
-    <a href="https://dhruvermafz.vercel.app/">resume</a>.
+    <a href="https://dhruvermafz.in/">resume</a>.
   </li>
   <li>🎉 Fun Fact: VALAR MORGHULIS</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <p>
-  <a target="_blank" href="https://dhruvermafz.vercel.app/blogs">Read More</a>
+  <a target="_blank" href="https://dhruvermafz.in/blogs">Read More</a>
 </p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
