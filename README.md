@@ -170,10 +170,10 @@
     height="25"
   />
 </p>
-<img
+[<img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvermafz"
   alt="Dhruvermafz's GitHub Streak"
-/>
+/>](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvermafz)
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=Dhruvermafz&show_icons=true&count_private=true"
