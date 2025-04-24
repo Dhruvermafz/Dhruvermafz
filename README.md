@@ -170,7 +170,11 @@
     height="25"
   />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dhruvermafz)](https://git.io/streak-stats)
+<img
+  src="https://streak-stats.demolab.com/?user=Dhruvermafz"
+  alt="Dhruvermafz's GitHub Streak"
+/>
+
 <img
   src="https://github-readme-stats.vercel.app/api?username=Dhruvermafz&show_icons=true&count_private=true"
   alt="Dhruvermafz's GitHub Stats"
