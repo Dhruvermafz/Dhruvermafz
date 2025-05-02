@@ -175,11 +175,7 @@
   alt="Dhruvermafz's GitHub Streak"
 />
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Dhruvermafz&show_icons=true&count_private=true"
-  alt="Dhruvermafz's GitHub Stats"
-/>
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Dhruvermafz?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 <p>
   <a
     href="http://hits.dwyl.com/Dhruvermafz/Dhruvermafz/Dhruvermafz.svg?style=flat-square"
