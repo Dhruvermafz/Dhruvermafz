@@ -153,7 +153,7 @@ Checkout my latest blogs on [Dhruvermafz - Blogs](https://dhruvermafz.in/blogs)
 
 <br/>  
 
-  
+  ![Dhruvermafz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvermafz&theme=vue-dark&hide_border=true)
 
 <br/>  
 
