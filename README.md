@@ -156,7 +156,8 @@ Checkout my latest blogs on [Dhruvermafz - Blogs](https://dhruvermafz.in/blogs)
   ![Dhruvermafz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvermafz&theme=vue-dark&hide_border=true)
 
 <br/>  
-
+![Dhruvermafz's Stats](https://github-readme-stats.vercel.app/api?username=Dhruvermafz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Dhruvermafz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvermafz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Dhruvermafz&&style=flat-square" align="center" />
 </div>  
