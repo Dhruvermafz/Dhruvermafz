@@ -14,7 +14,7 @@ I'm currently a Full Stack Developer at Rocklime based in 🌁 Delhi. I am worki
 
 ### ⚡️ A Few Quick Facts  
 
-🔭 I’m currently working on Desi Discoveries.  
+🔭 I’m currently working on shhhhhhhh.  
 
 📙 Check out my [portfolio](https://dhruvermafz.in)  
   
@@ -29,7 +29,6 @@ I'm currently a Full Stack Developer at Rocklime based in 🌁 Delhi. I am worki
   
 
 🎉 Fun Fact: VALAR MORGHULIS  
-  
 
 <br/>  
 
