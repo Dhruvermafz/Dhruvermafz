@@ -1,44 +1,43 @@
+### 🍌 Don't forget to get some Potassium 🍌
 
-
-### 🍌 Don't forget to get some Potassium 🍌  
 <div align="center">
 <img src="https://camo.githubusercontent.com/3782881044e264bfb2d1002964bc4f6a1fd0e7c7fe411a09473416a3589d02a2/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" align="center" style="width: 100%" />
-</div>  
-  
+</div>
 
-### <div align="center">Hey 👋, I'm Dhruv Verma
-I'm currently a Full Stack Developer at Rocklime based in 🌁 Delhi. I am working on some side projects, learning a couple new technologies, and trying to explore new adventures in life.</div>  
-  
+# 👑 **DH R U V V E R M A** — _Warden of the Code, Breaker of Bugs, Builder of Systems_
 
+> **"When you play the game of code, you win or you deploy."**
 
+---
 
-### ⚡️ A Few Quick Facts  
+## 🏰 The Realm
 
-🔭 I’m currently working on shhhhhhhh.  
+👋 **Hear Me Code.**
+I am **Dhruv Verma**, a **Full Stack Engineer** based in **Delhi** — sworn to the craft of scalable systems, clean architectures, and elegant user experiences.
 
-📙 Check out my [portfolio](https://dhruvermafz.in)  
-  
+Like the maesters of Oldtown, I learn relentlessly. Like the Night’s Watch, I guard production at 3 AM. And like Tyrion Lannister — _I drink coffee and I know things._
 
-🧐 Learning about serverless architectures, Dockerize, and a bit of System Design.  
-  
+---
 
-👨‍💻 Most of my projects are available on Github.  
-  
+## ⚔️ Small Council (Quick Facts)
 
-📝 I regulary write articles on my blog.  
-  
+- 🔭 Currently working on **classified projects** (_The Crown does not reveal its plans_)
+- 📜 Portfolio: **[https://dhruvermafz.in](https://dhruvermafz.in/)**
+- 🧠 Studying **System Design, Docker, Serverless, and Distributed Architectures**
+- 🧑‍💻 Most battles are fought on **GitHub**
+- ✍️ I write chronicles on my blog
+- 🗡️ Fun Fact: **Valar Morghulis** — but bugs die first
 
-🎉 Fun Fact: VALAR MORGHULIS  
+---
 
-<br/>  
+## 🐉 Houses I Serve (Tech Stack)
 
+### 🛡️ House Frontend — _"Looks Matter in the Seven Kingdoms"_
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+React • TypeScript • JavaScript • HTML • CSS • Tailwind • MUI • Chakra UI • Redux • Electron • Chart.js
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -75,9 +74,14 @@ I'm currently a Full Stack Developer at Rocklime based in 🌁 Delhi. I am worki
 
 </td><td valign="top" width="33%">
 
+---
 
+### 🏹 House Backend — _"Power Is Power"_
 
-### Backend  
+Node.js • Express • Python • Django • PHP • Go • C/C++ • C# • GraphQL • MongoDB • MySQL • Redis • MariaDB
+
+### Backend
+
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -96,9 +100,14 @@ I'm currently a Full Stack Developer at Rocklime based in 🌁 Delhi. I am worki
 
 </td><td valign="top" width="33%">
 
+---
 
+### 🏰 House DevOps — _"Winter Is Coming. Be Ready."_
 
-### DevOps  
+AWS • GCP • Docker • Kubernetes • Linux • Nginx • Bash • Git
+
+### DevOps
+
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -109,61 +118,54 @@ I'm currently a Full Stack Developer at Rocklime based in 🌁 Delhi. I am worki
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+---
 
-<br/>  
+## 🧙‍♂️ Philosophy of Code
 
+> "A mind needs books like a sword needs a whetstone — and a system needs tests like a kingdom needs walls."
 
-## Connect with me  
-<div align="center">
-<a href="https://twitter.com/thenerdy_guy" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/dhruvermafz/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/dhruvermafz/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/dhruvermafz/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Dhruvermafz" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/19765859/dhruv-verma" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+- Clean code over clever code
+- Automation over repetition
+- Observability over assumptions
+- Scalability before chaos
 
-<br/>  
+---
 
+## 📊 The Raven Reports (GitHub Stats)
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dhruvermafz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats
 
-<br/>  
-
-
-## Recent Blog Posts  
-Checkout my latest blogs on [Dhruvermafz - Blogs](https://dhruvermafz.in/blogs)  
-  
-
-<br/>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dhruvermafz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
   ![Dhruvermafz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvermafz&theme=vue-dark&hide_border=true)
-
 <br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Dhruvermafz&&style=flat-square" align="center" />
-</div>  
-  
+<br/>
 
-<br/>  
+---
 
+## 🗞️ Chronicles from the Citadel (Blogs)
 
-<br />
+📚 Read my latest writings here → **[https://dhruvermafz.in/blogs](https://dhruvermafz.in/blogs)**
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
+
+## 🌍 Send a Raven (Connect)
+
+[![Twitter](https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=twitter)](https://twitter.com/thenerdy_guy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhruvermafz/)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram)](https://instagram.com/dhruvermafz/)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github)](https://github.com/Dhruvermafz)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-0A0A0A?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/19765859/dhruv-verma)
+
+---
+
+## 👁️ The Wall Sees All
+
+---
+
+### ⚔️ _"I am the code that guards the realms of production."_
+
+Built with ❤️ and ☕ by **Dhruv Verma**
+_The North Remembers. So Does Git._
+
